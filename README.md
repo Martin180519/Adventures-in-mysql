@@ -34,3 +34,6 @@ Create a SQL statement to find the capital of Spain (ESP).
 Create a SQL statement to list all the languages spoken in the Caribbean region.
 
 Create a SQL statement to find all cities from the Europe continent.
+
+
+![image](https://github.com/Martin180519/Adventures-in-mysql/assets/156096889/28c4e044-ec8b-4fbd-8c92-b4e0ffb70719)
